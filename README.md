@@ -1,4 +1,12 @@
 # Codtech-Chating-app
+
+*COMPANY*    : CODTECH IT SOLUTIONS <BR>
+*NAME*       : M NAGA SHANKAR<br>
+*INTERN ID*  : CT08DN1962<br>
+*DOMAIN*     : FRONT END DEVELOPMENT<br>
+*DURATION*  : 8 WEEKS<br>
+*MENTOR*     : NEELA SANTOSH<br>
+
 Codtech-Chating-app is a real-time chat application that allows users to join rooms by providing their username and room name. The project leverages modern web technologies to deliver a smooth and responsive chat experience.
 
 ## Preview
